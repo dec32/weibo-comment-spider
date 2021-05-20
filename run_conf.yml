@@ -1,0 +1,6 @@
+# 通过浏览器检查功能获取后填入
+cookie: 
+# 移动端（m.weibo.cn）的微博ID
+weibo_id: 
+# 请求间隔，单位为秒
+sleep_time: 
